@@ -1,5 +1,5 @@
 fx_version "cerulean"
-game "rdr3"
+game "gta5"
 
 author "j0le"
 
